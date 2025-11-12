@@ -4,6 +4,22 @@ This repository contains the complete set of projects developed during my **Pyth
 Each project focuses on applying Python fundamentals to real-world use cases, covering GUI apps, automation, and data handling.
 
 ---
+<div align="center">
+
+# 🧠 Pinnacle Labs Python Internship Projects  
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![Firebase](https://img.shields.io/badge/Database-Firebase-orange?logo=firebase)
+![JSON](https://img.shields.io/badge/Data-JSON-yellow)
+![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)
+![Status](https://img.shields.io/badge/Internship-Completed-success)
+
+</div>
+
+---
+
+
 
 ## 📚 Project List
 
