@@ -1,4 +1,4 @@
-# 🧠 Pinnacle Labs Python Internship Projects
+#  Pinnacle Labs Python Internship Projects
 
 This repository contains the complete set of projects developed during my **Python Developer Internship at Pinnacle Labs**.  
 Each project focuses on applying Python fundamentals to real-world use cases, covering GUI apps, automation, and data handling.
