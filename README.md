@@ -1,12 +1,7 @@
-#  Pinnacle Labs Python Internship Projects
 
-This repository contains the complete set of projects developed during my **Python Developer Internship at Pinnacle Labs**.  
-Each project focuses on applying Python fundamentals to real-world use cases, covering GUI apps, automation, and data handling.
-
----
 <div align="center">
 
-# 🧠 Pinnacle Labs Python Internship Projects  
+#  Pinnacle Labs Python Internship Projects  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
