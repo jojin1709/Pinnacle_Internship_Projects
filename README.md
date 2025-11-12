@@ -115,20 +115,14 @@ Intern: Jojin John
 
 🌐 Connect with Me
 🔗 GitHub: https://github.com/jojin1709
+
+
+
 💼 LinkedIn: https://www.linkedin.com/in/jojin-john-74386b34a
+
+
+
 🌍 Portfolio: https://jojin-portfolio.netlify.app
 
 ---
-
-### ✅ Steps to Finish:
-1. Go to your GitHub repo → click **“Add a README”**.  
-2. Paste the above text.  
-3. Click **Commit changes** (green button).  
-
-That’s it — your internship repository will be **officially polished and complete** ✅
-
----
-
-Would you like me to now write your **LinkedIn final post caption** to announce the successful completion of your internship (short, professional, and ready to post)?
-
 
