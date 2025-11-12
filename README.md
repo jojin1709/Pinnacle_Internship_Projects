@@ -114,9 +114,9 @@ Intern: Jojin John
 
 
 🌐 Connect with Me
-🔗 GitHub: jojin1709
-💼 LinkedIn: Jojin John
-🌍 Portfolio: jojin-portfolio.netlify.app
+🔗 GitHub: https://github.com/jojin1709
+💼 LinkedIn: https://www.linkedin.com/in/jojin-john-74386b34a
+🌍 Portfolio: https://jojin-portfolio.netlify.app
 
 ---
 
